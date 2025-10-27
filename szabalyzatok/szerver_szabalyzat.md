@@ -35,7 +35,10 @@
 <details>
 <summary>**((⬇️KATT))🌌 AuroraCraft – Skyblock Szabályzat((⬇️KATT))**</summary>
 
+---
+
  **📌 Általános információk**
+ 
 A Skyblock egyedi játékmód, melyben saját szigetet hozhatsz létre, fejleszthetsz, farmolhatsz, harcolhatsz, és kereskedhetsz.
 
 ---
