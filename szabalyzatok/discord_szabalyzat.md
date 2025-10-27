@@ -53,6 +53,8 @@
 <details>
 <summary>**((⬇️KATT))🏆 Versenyek – Kvíz & Meghívás((KATT⬇️))**</summary>
 
+---
+
 ** 📚 AuroraCraft - Versenyszabályzatok**
 
 Itt találod a kvíz- és meghívásos versenyek hivatalos szabályait.
