@@ -2,7 +2,7 @@
 
 ---
 
-# 📜 AuroraCraft Discord Szabályzat
+# 📜 AuroraCraft - Discord Szabályzat
 
 Üdvözlünk az AuroraCraft Discord szerverén! A jó hangulat és a biztonságos közösségi élmény érdekében kérünk, hogy tartsd be az alábbi szabályokat.
 
